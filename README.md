@@ -19,8 +19,7 @@
 
 <a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/tanzimazad.nishan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<p><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></p>
-<img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+<p><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">.</p><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 
 
 <!-- Here are some ideas to get you started: -->
