@@ -13,13 +13,15 @@
   - Algorithm
   - Networking
 - ⚡ Fun fact: I love to play and watch sports, travel
-- 📫 How to reach me: nishan.tan.2015@gmail.com
+<!-- - 📫 How to reach me: nishan.tan.2015@gmail.com -->
 
 
-### Social Media
-<a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/tanzimazad.nishan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+### Connect with me
+<p align="center">
+<img src="https://img.shields.io/badge/Gmail-nishan.tan.2015@gmail.com-red?&style=flat-square&logo=facebook&logoColor=white" alt="Gmail">
+<a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Tanzim%20Azad-green?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/tanzimazad.nishan" target="_blank"><img src="https://img.shields.io/badge/Facebook-Tanzim%20Azad%20Nishan-blue?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
 
 
 <!-- Here are some ideas to get you started: -->
