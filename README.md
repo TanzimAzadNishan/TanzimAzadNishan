@@ -15,13 +15,13 @@
 - ⚡ Fun fact: I love to play and watch sports, travel
 - 📫 How to reach me: nishan.tan.2015@gmail.com
 
-
+<br /><br />
 <p align="center">
-  You can also find me-
-</p> 
+  You can also find me at
 
-<a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/tanzimazad.nishan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/tanzimazad.nishan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p> 
 
 
 <!-- Here are some ideas to get you started: -->
