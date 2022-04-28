@@ -19,7 +19,7 @@
 ### Connect with me
 <p align="center">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-nishan.tan.2015@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Tanzim%20Azad-orange?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/md-tanzim-azad-a879a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Tanzim%20Azad-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/tanzimazad.nishan" target="_blank"><img src="https://img.shields.io/badge/Facebook-Tanzim%20Azad%20Nishan-blue?&style=flat-square&logo=facebook&logoColor=blue" alt="Facebook"></a>
 </p>
 
