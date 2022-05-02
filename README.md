@@ -107,7 +107,7 @@
 </a>
 
 <a href="https://www.postman.com/" target="_blank"> 
-<img alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="100" height="100">
+<img alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50">
 </a>
 
 <!--    <img src="https://github.com/TanzimAzadNishan/Priority-Based-Congestion-Control-Protocol/blob/main/Throughput.png" 
