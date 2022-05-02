@@ -16,7 +16,7 @@
 <!-- - 📫 How to reach me: nishan.tan.2015@gmail.com -->
 
 
-<br /><br />
+<br />
 ### **Programming Languages**
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
