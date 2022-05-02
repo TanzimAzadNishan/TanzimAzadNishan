@@ -107,7 +107,7 @@
 </a>
 
 <!-- <a href="https://www.postman.com/" target="_blank">  -->
-<img style="position: absolute; top: 30px; left: 30px;" alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50">
+<img style="position: absolute; background-color: white;" alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50">
 <!-- </a> -->
 
 
