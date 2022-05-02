@@ -42,6 +42,18 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 
+<a href="https://www.json.org/json-en.html" target="_blank"> 
+<img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+</a>
+
+<a href="https://www.latex-project.org/" target="_blank"> 
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+</a>
+
+<a href="#" target="_blank"> 
+<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
 
 ### **Frameworks & Tools**
 <a href="https://expressjs.com/" target="_blank"> 
@@ -58,6 +70,18 @@
 
 <a href="https://www.djangoproject.com/" target="_blank"> 
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+</a>
+
+<a href="https://www.oracle.com/database/" target="_blank"> 
+<img alt="Oracle DB" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank"> 
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 
 <a href="https://junit.org/junit5/" target="_blank"> 
