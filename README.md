@@ -106,12 +106,10 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </a>
 
-<a href="https://www.postman.com/" target="_blank"> 
+<!-- <a href="https://www.postman.com/" target="_blank"> 
 <img alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50">
-</a>
+</a> -->
 
-<!--    <img src="https://github.com/TanzimAzadNishan/Priority-Based-Congestion-Control-Protocol/blob/main/Throughput.png" 
-        width="400" height="300"/> -->
 
 <!-- ![ns3](https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png) -->
 
