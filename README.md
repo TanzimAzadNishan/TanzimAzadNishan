@@ -102,6 +102,10 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 
+<a href="https://www.postman.com/" target="_blank"> 
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</a>
+
 
 
 
