@@ -107,8 +107,10 @@
 </a>
 
 <!-- <a href="https://www.postman.com/" target="_blank">  -->
-<img style="float:right; padding:16px;" alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50">
+<!-- <img style="float:right; padding:16px;" alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50"> -->
 <!-- </a> -->
+
+![Kitten](ns-3.png){: width=150 height=100 style="float:right; padding:16px"} 
 
 
 <!-- ![ns3](https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png) -->
