@@ -107,7 +107,8 @@
 </a>
 
 <a href="#" target="_blank">
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">
+<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 </a>
 
 <!-- <a href="https://www.postman.com/" target="_blank">  -->
