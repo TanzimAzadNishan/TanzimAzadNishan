@@ -106,10 +106,14 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </a>
 
-<a href="#" target="_blank">
-  <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">
-<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+<a href="https://www.arduino.cc/" target="_blank"> 
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </a>
+
+<!-- <a href="#" target="_blank"> -->
+<!--   <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"> -->
+<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+<!-- </a> -->
 
 <!-- <a href="https://www.postman.com/" target="_blank">  -->
 <!-- <img style="float:right; padding:16px;" alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="85" height="50"> -->
