@@ -16,8 +16,8 @@
 <!-- - 📫 How to reach me: nishan.tan.2015@gmail.com -->
 
 
-### Skills
-#### **Programming Languages**
+<br /><br />
+### **Programming Languages**
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
@@ -43,8 +43,40 @@
 </a>
 
 
-<br /><br />
-#### **Frameworks**
+### **Frameworks & Tools**
+<a href="https://expressjs.com/" target="_blank"> 
+<img alt="express js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+
+<a href="https://reactjs.org/" target="_blank"> 
+<img alt="react js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank"> 
+<img alt="react js" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank"> 
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+</a>
+
+<a href="https://junit.org/junit5/" target="_blank"> 
+<img alt="Junit5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+</a>
+
+<a href="https://github.com/" target="_blank"> 
+<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://bitbucket.org/" target="_blank"> 
+<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
+</a>
+
+<a href="https://www.docker.com/" target="_blank"> 
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+
 
 
 
