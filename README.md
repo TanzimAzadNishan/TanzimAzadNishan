@@ -106,6 +106,13 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </a>
 
+<a href="https://www.postman.com/" target="_blank"> 
+<img alt="ns3" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png" width="100" height="100">
+</a>
+
+<!--    <img src="https://github.com/TanzimAzadNishan/Priority-Based-Congestion-Control-Protocol/blob/main/Throughput.png" 
+        width="400" height="300"/> -->
+
 <!-- ![ns3](https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns-3.png) -->
 
 <!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> -->
