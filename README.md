@@ -111,7 +111,7 @@
 </a>
 
 <a href="#" target="_blank"> 
-<img alt="ns3" width="85" height="50" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns3Theme1.jpg">
+<img alt="ns3" width="100" height="30" src="https://github.com/TanzimAzadNishan/TanzimAzadNishan/blob/main/ns3Theme1.jpg">
 </a>
 
 <!-- <a href="#" target="_blank"> -->
