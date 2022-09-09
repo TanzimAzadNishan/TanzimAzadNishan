@@ -6,9 +6,10 @@
 
 ### I am a 4th year student of Computer Science and Engineering from BUET.
 
-- I’m a Backend developer
+- I’m a FullStack developer
 - Interests:
   - Web Development
+  - Microservices
   - DevOps
   - Algorithm
   - Networking
