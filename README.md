@@ -4,7 +4,7 @@
 **TanzimAzadNishan/TanzimAzadNishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Md. Tanzim Azad
 
-#### I am a graduate of Computer Science and Engineering, BUET. Currently, I am working at ```Therap BD Ltd.``` as an ```Associate Software Engineer```.
+#### I am a graduate of Computer Science and Engineering, BUET. Currently, I am working at ```Therap (BD) Ltd.``` as an ```Associate Software Engineer```.
 <br/>
 
 - I’m a FullStack developer
