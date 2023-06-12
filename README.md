@@ -4,14 +4,15 @@
 **TanzimAzadNishan/TanzimAzadNishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Md. Tanzim Azad
 
-### I am a 4th year student of Computer Science and Engineering from BUET.
+### I am a graduate of Computer Science and Engineering, BUET. Currently, I am working at **Therap BD Ltd.** as an **Associate Software Engineer**. 
 
 - I’m a FullStack developer
 - Interests:
   - Web Development
+  - Machine Learning
+  - Data Structure and Algorithms
   - Microservices
   - DevOps
-  - Algorithm
   - Networking
 - ⚡ Fun fact: I love to play and watch sports, travel
 <!-- - 📫 How to reach me: nishan.tan.2015@gmail.com -->
